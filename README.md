@@ -27,7 +27,7 @@ Git Bash
 This Repository
 1. Open Git Bash
 2. Navigate to the directory you would like to place the repository in
-3. Execute `git clone https://github.com/mcdermottrw/Fetch-Rewards-Back-End-Exercise.git`
+3. Execute `git clone https://github.com/mcdermottrw/FetchRewardsExercise.git`
 
 ## Executing the Program
 
